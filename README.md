@@ -4,13 +4,13 @@
   </a>
 
 
-# Logger Master
+# The Logger Master
 
 Logger Master, çeşitli log seviyeleriyle mesajları renkli bir şekilde konsola yazdıran bir Node.js modülüdür.
 
 ## Kullanım
 
-**Öncelikle, projenize Logger Master modülünü eklemek için terminale aşağıdaki komutu girin:** ```npm install logger-master```
+**Öncelikle, projenize The Logger Master modülünü eklemek için terminale aşağıdaki komutu girin:** ```npm install the-logger-master```
 
 
 **Ardından, projenizin dosyasında Logger Master modülünü require edin ve kullanmaya başlayın:**
