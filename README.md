@@ -16,7 +16,7 @@ Logger Master, çeşitli log seviyeleriyle mesajları renkli bir şekilde konsol
 **Ardından, projenizin dosyasında Logger Master modülünü require edin ve kullanmaya başlayın:**
 
 ```javascript
-const sendLog = require("logger-master");
+const sendLog = require("the-logger-master");
 // Örnek kullanım
 sendLog("Bu bir bilgilendirme mesajıdır.", "info");
 sendLog("Bu bir hata mesajıdır.", "error");
